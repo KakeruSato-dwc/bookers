@@ -72,3 +72,29 @@ a:-webkit-any-link {
 .link-edit {
   margin-top: 10px;
 }
+
+.flash-message.notice {
+  color: green;
+  margin-left: 32px;
+}
+
+.error-message {
+  width: 450px;
+  border: solid 2px red;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+h3 {
+  font-size: 12px;
+  font-weight: bold;
+  background-color: #c00;
+  padding: 5px 5px 5px 15px;
+  color: #fff;
+}
+
+ul {
+  margin: 33px;
+  padding-inline-start: 40px;
+  font-size: 12px;
+}
